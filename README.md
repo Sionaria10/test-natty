@@ -19,6 +19,7 @@ Utilizei a IDE Visual Studio Code para fazer os códigos do Projeto abaixo relac
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![image](https://github.com/user-attachments/assets/f57c313c-224b-4a77-a66f-cfe4b78e8a04)
 
 
 # 🧐 Processo de Criação
@@ -27,4 +28,4 @@ Utilizei a IDE Visual Studio Code para fazer os códigos do Projeto abaixo relac
 ## 🚀 Resultado
 ![Acerte-Número](https://github.com/user-attachments/assets/e5292677-cea3-47b6-a9bb-6e8269c03dfc)
 
-[^1]: Protótipo de autoria Belisnalva Costa, e a orientação do professor Venilton FalvoJr (DIO).
+[^1]: Protótipo - autoria Belisnalva Costa, e a orientação do professor Venilton FalvoJr (DIO).
